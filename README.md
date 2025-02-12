@@ -1,0 +1,1 @@
+# analise_empresa_varejista
